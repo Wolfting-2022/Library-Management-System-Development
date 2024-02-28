@@ -1,0 +1,68 @@
+Feb 16, 2024 12:38:05 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Application started.
+Feb 16, 2024 12:38:21 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Successfully created event: a1
+Feb 16, 2024 12:38:21 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Workshop event created successfully.
+Feb 16, 2024 12:38:26 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Successfully created event: a2
+Feb 16, 2024 12:38:26 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: KidsStoryTime event created successfully.
+Feb 16, 2024 12:38:31 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Successfully created event: a3
+Feb 16, 2024 12:38:31 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: BookLaunch event created successfully.
+Feb 16, 2024 12:38:39 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Successfully created event: a4
+Feb 16, 2024 12:38:39 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: MovieNight event created successfully.
+Feb 16, 2024 12:38:39 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+WARNING: No event found with ID: 1
+Feb 16, 2024 12:38:51 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Event management operations completed.
+Feb 16, 2024 12:52:08 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Application started.
+Feb 16, 2024 12:52:24 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Successfully created event: a
+Feb 16, 2024 12:52:24 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Workshop event created successfully.
+Feb 16, 2024 12:52:29 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Successfully created event: b
+Feb 16, 2024 12:52:29 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: KidsStoryTime event created successfully.
+Feb 16, 2024 12:52:35 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Successfully created event: b
+Feb 16, 2024 12:52:35 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: BookLaunch event created successfully.
+Feb 16, 2024 12:52:38 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Successfully created event: c
+Feb 16, 2024 12:52:38 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: MovieNight event created successfully.
+Feb 16, 2024 12:52:38 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+WARNING: No event found with ID: 1
+Feb 16, 2024 12:52:43 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Event management operations completed.
+Feb 16, 2024 12:54:16 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Application started.
+Feb 16, 2024 12:54:32 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Successfully created event: x
+Feb 16, 2024 12:54:32 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Workshop event created successfully.
+Feb 16, 2024 12:54:35 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Successfully created event: y
+Feb 16, 2024 12:54:35 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: KidsStoryTime event created successfully.
+Feb 16, 2024 12:54:38 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Successfully created event: z
+Feb 16, 2024 12:54:38 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: BookLaunch event created successfully.
+Feb 16, 2024 12:54:43 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Successfully created event: q
+Feb 16, 2024 12:54:43 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: MovieNight event created successfully.
+Feb 16, 2024 12:54:43 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+WARNING: No event found with ID: 1
+Feb 16, 2024 12:54:54 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Event management operations completed.
+Feb 16, 2024 1:10:59 A.M. com.algonquin.cst8288.assignment2.logger.LMSLogger log
+INFO: Application started.
